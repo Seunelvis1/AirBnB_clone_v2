@@ -142,4 +142,8 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 <br>
 ## Authors :black_nib:
 * **Adeniran Oluwaseun** <[Seunelvis1](https://github.com/Seunelvis1)>
+	
 * **Mohamed Benlogoroun ** <>
+## Authors :black_nib:
+* **Opeyemi Odebode** <[Surahj](https://github.com/surahj)>
+* **Idris Zakariyau** <[Ade3164](https://github.com/Ade3164)>
