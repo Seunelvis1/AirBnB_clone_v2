@@ -145,4 +145,4 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 
 * **Adeniran Oluwaseun** <[Seunelvis1](https://github.com/Seunelvis1)>
 	
-* **Mohamed Benlogoroun **
+* **Mohamed Benlaguroun ** <[mohamed benlaguroun](https://github.com/bbenlaguroun)>
